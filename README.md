@@ -1,1 +1,1 @@
-# MyCalculator
+# Unlock the power of numbers with my interactive calculator! This project, crafted using front-end technologies (HTML, CSS, and JavaScript), offers a seamless and user-friendly experience for performing basic arithmetic operations.
